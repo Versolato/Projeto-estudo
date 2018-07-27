@@ -1,4 +1,6 @@
 ﻿using tabuleiro;
+using System.Globalization;
+
 
 
 namespace xadrez {
